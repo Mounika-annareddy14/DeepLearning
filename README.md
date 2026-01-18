@@ -122,28 +122,6 @@ OpenCV
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```bash
-git clone <repo-url>
-```
-
-2. Install dependencies
-
-```bash
-pip install tensorflow scikit-learn numpy pandas matplotlib opencv-python
-```
-
-3. Run the Python scripts or notebooks
-
-```bash
-python ann_binary.py
-python cnn_binary.py
-```
-
----
 
 ## 🎯 Learning Outcomes
 
@@ -155,8 +133,6 @@ python cnn_binary.py
 * Model evaluation techniques
 
 ---
-
-## 📌 Notes for Interviews
 
 * Use **Sigmoid + Binary Crossentropy** for binary classification
 * Use **Softmax + Categorical Crossentropy** for multi-class problems
